@@ -1,0 +1,13 @@
+DADOS DISCRETOS (QUESTÃO 2)
+
+Xi=[0,1,2,3,4,5];
+Yi=[3,4,7,12,19,28];
+
+
+
+
+
+SISTEMA LINEAR (2X2) A SER RESOLVIDO (QUESTÃO 3)
+
+x+y=4
+x-y=2
